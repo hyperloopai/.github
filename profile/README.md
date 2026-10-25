@@ -31,9 +31,6 @@ Hyperloop AI is part of Hyperloop. The mission is a computer with a human mind.
   <img alt="Hyperloop AI: Artificial intelligence. Hyperloop Cooling: Cooling. Hyperloop Space: Space." src="assets/ai-divisions-light.svg" width="100%">
 </picture>
 
-- **Hyperloop AI.** Artificial intelligence.
-- **Hyperloop Cooling.** Cooling.
-- **Hyperloop Space.** Space.
 
 <br>
 
